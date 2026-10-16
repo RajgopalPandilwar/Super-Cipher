@@ -7,9 +7,6 @@ A triple-layer cryptography system that uses numerical, alphabetical, and symbol
 **Rajgopal Pandilwar**
 
 ## Based On Original Work By
-
-This project is based on original work by **Vatshayan** — [Original Repository](https://github.com/Vatshayan/Cryptography-final-year-project)
-
 ## How It Works
 
 The Super Cipher applies three sequential encryption layers:
